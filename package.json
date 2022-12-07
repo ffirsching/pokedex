@@ -4,7 +4,7 @@
   "description": "El mejor pokedex del mundo",
   "main": "index.js",
   "scripts": {
-    "serve": "http-server . -c-1"
+    "serve": "http-server . -c-1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
