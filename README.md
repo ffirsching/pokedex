@@ -2,4 +2,4 @@
 
 ## API
 
-We use the PokéAPI for fetching our data.
+We use the PokéAPI for fetching our data. S. https://pokeapi.co/ for documentation.
